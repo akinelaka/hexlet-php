@@ -7,5 +7,7 @@
             "email": "001@kalenik.name"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
 }
